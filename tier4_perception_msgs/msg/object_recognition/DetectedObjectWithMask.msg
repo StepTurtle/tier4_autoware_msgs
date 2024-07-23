@@ -1,0 +1,3 @@
+autoware_perception_msgs/DetectedObject object
+Feature feature
+sensor_msgs/Image mask
